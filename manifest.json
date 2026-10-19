@@ -10,14 +10,12 @@
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM3aIdFmJZazB1zZD5WQeT4qDivhvdhqz3PUDHN1VKglUkQf7cDblQ4qEpGDoYPqwDH38fqHbTcWPqc7-p_YBEPz54xVN7pHNy_QCp6wmIwSxKq1GisI7DT1FwBQHHT4gpXmSEbon_W5lWDcqsyWhaJg5sgi95R70ml_IdK_-i_5bw6o65PjtX_N-mAvyg/s500/1000239506.png",
       "sizes": "192x192",
-      "type": "image/jpeg",
-      "purpose": "any maskable"
+      "type": "image/jpeg", 
     },
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM3aIdFmJZazB1zZD5WQeT4qDivhvdhqz3PUDHN1VKglUkQf7cDblQ4qEpGDoYPqwDH38fqHbTcWPqc7-p_YBEPz54xVN7pHNy_QCp6wmIwSxKq1GisI7DT1FwBQHHT4gpXmSEbon_W5lWDcqsyWhaJg5sgi95R70ml_IdK_-i_5bw6o65PjtX_N-mAvyg/s500/1000239506.png",
       "sizes": "512x512",
       "type": "image/jpeg",
-      "purpose": "any maskable"
     }
   ]
 }
