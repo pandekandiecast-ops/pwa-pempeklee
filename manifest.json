@@ -1,0 +1,20 @@
+{
+  "name": "Pempek Lee Lampung",
+  "short_name": "Pempek Lee",
+  "start_url": "/?m=1",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVI48083w_RKv54MGt6-lDc5temPKDaZCVhYNZD87AIFKdd4msz3VXBtHXm8nDrDxjnpTRMzjIUTCOY-ZzeDRyi47P8U7i3LDoznoo5U1yfflE3jo6bzamLA_yCESQ6xysQBio-rNjXgEgvlgCYWGnlpk2mkLW7sX5KSU7fjSoMh1DXn_hzguGkfys2q9X/s500/1000239492.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVI48083w_RKv54MGt6-lDc5temPKDaZCVhYNZD87AIFKdd4msz3VXBtHXm8nDrDxjnpTRMzjIUTCOY-ZzeDRyi47P8U7i3LDoznoo5U1yfflE3jo6bzamLA_yCESQ6xysQBio-rNjXgEgvlgCYWGnlpk2mkLW7sX5KSU7fjSoMh1DXn_hzguGkfys2q9X/s500/1000239492.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
