@@ -2,6 +2,7 @@
   "name": "Pempek Lee Lampung",
   "short_name": "Pempek Lee",
   "start_url": "/?m=1",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
